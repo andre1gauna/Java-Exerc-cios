@@ -30,7 +30,7 @@ public class Worker {
 	}
 
 	public void setName(String name) {
-		name = name;
+		this.name = name;
 	}
 
 	public WorkerLevel getLevel() {

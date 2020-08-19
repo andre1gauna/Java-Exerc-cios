@@ -1,7 +1,7 @@
 package entities.Enums;
 
 public enum WorkerLevel {	
-	JUNUIR,
+	JUNIOR,
 	MID_LEVEL,
 	SENIOR;
 }
